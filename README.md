@@ -1,1 +1,1 @@
-# Go-Kardinal-
+# Go-Kardinal- SaaS MVP Project Plan
