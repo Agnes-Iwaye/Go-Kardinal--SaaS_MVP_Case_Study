@@ -1,7 +1,8 @@
 # Go-Kardinal- SaaS MVP Project Plan
  Project Topic: Self-Service B2B Travel Booking MVP
 
-Organization: Gokardinal / Kardinal | Role: Project Manager and Product Manager
+Organization: Gokardinal  
+Role: Project Manager and Product Manager
 MVP timeline: August 2022–May 2023
 
 ₦30 million budget | ₦28.5 million modeled spend | 45 → 8 minutes per booking | 60% adoption.
